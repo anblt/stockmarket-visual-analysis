@@ -7,14 +7,14 @@
 ### Stocks/Forex
 
 - [x] Dow Jones Industrial Average (DJI)
-    - 2018
+    - [2018](DJI_2018)
 - [x] Euro-USDollar (EURUSD)
-    - 2018
+    - [2018](EURUSD_2018)
 
 ### Example :: DowJones
 
-![DJI_2018-10](https://raw.githubusercontent.com/anblt/stockmarket-visual-analysis/master/DJI_2018-10.jpg)
+![DJI_2018-10](https://raw.githubusercontent.com/anblt/stockmarket-visual-analysis/master/DJI_2018/DJI_2018-10.jpg)
 
 ### Example :: EURUSD
 
-![EURUSD_2018-10](https://raw.githubusercontent.com/anblt/stockmarket-visual-analysis/master/EURUSD_2018-10.jpg)
+![EURUSD_2018-10](https://raw.githubusercontent.com/anblt/stockmarket-visual-analysis/master/EURUSD_2018/EURUSD_2018-10.jpg)
