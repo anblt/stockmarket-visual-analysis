@@ -6,9 +6,9 @@
 
 ### Stocks/Forex
 
-[x] Dow Jones Industrial Average (DJI)
+- [x] Dow Jones Industrial Average (DJI)
     - 2018
-[ ] Euro-USDollar (EURUSD)
+- [ ] Euro-USDollar (EURUSD)
 
 ### Example :: DowJones
 
