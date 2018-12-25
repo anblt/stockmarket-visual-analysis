@@ -1,8 +1,9 @@
-# Stockmarket Visual Analysis
+# StockMarket Visual Analysis
 
 ### Motivation
 
 - Data is awesome stuff. Playing with data, stats, models, etc. helps a lot to understand complex developments.
+- Stock markets reflect economic dynamics and stock market prices reflect expectations for economic growth
 
 ### Stocks/Forex
 
